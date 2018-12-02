@@ -1,7 +1,0 @@
-D:\OTC CIS\CIS 120 Projects\AutheticatedCalculator\AutheticatedCalculator\obj\Debug\AutheticatedCalculator.csprojAssemblyReference.cache
-D:\OTC CIS\CIS 120 Projects\AutheticatedCalculator\AutheticatedCalculator\obj\Debug\AutheticatedCalculator.csproj.CoreCompileInputs.cache
-D:\OTC CIS\CIS 120 Projects\AutheticatedCalculator\AutheticatedCalculator\bin\Debug\AutheticatedCalculator.exe.config
-D:\OTC CIS\CIS 120 Projects\AutheticatedCalculator\AutheticatedCalculator\bin\Debug\AutheticatedCalculator.exe
-D:\OTC CIS\CIS 120 Projects\AutheticatedCalculator\AutheticatedCalculator\bin\Debug\AutheticatedCalculator.pdb
-D:\OTC CIS\CIS 120 Projects\AutheticatedCalculator\AutheticatedCalculator\obj\Debug\AutheticatedCalculator.exe
-D:\OTC CIS\CIS 120 Projects\AutheticatedCalculator\AutheticatedCalculator\obj\Debug\AutheticatedCalculator.pdb
